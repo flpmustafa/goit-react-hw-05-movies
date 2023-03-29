@@ -1,0 +1,40 @@
+.section_details {
+  padding: 0 15px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.link:hover,
+.link:focus {
+  font-weight: 700;
+}
+
+.button {
+  margin: 20px;
+  border-radius: 8px;
+  border-color: transparent;
+  background-color: hsla(20, 100%, 47%, 0.322);
+}
+
+.button:hover,
+.button:focus {
+  background-color: hsl(20, 100%, 47%);
+}
+
+.h3_movie {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+}
+
+.box_details {
+  display: flex;
+  gap: 25px;
+  position: relative;
+  margin-bottom: 20px;
+}

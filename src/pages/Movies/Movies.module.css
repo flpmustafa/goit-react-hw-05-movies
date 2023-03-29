@@ -1,0 +1,12 @@
+.movies {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+
+.inpum_movies {
+  padding: 0 5px;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 10px;
+}
